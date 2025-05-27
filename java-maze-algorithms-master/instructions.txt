@@ -1,0 +1,10 @@
+In your terminal (from the project root or from within /main), run:
+
+
+javac main/*.java
+
+This will compile all Java files inside the main folder together.
+
+Then type command(in cmd):
+
+java main.Maze
